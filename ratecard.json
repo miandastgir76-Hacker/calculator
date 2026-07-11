@@ -1,0 +1,56 @@
+{
+  "treatment_limits": {
+    "Bronze":   100000,
+    "Silver":   250000,
+    "Gold":     500000,
+    "Platinum": 750000,
+    "Titanium": 1000000
+  },
+  "premium_table": [
+    {
+      "age_min": 3,
+      "age_max": 18,
+      "premiums": { "Bronze": 7100,  "Silver": 13100, "Gold": 23300, "Platinum": 24400, "Titanium": 25600 }
+    },
+    {
+      "age_min": 19,
+      "age_max": 29,
+      "premiums": { "Bronze": 6300,  "Silver": 9800,  "Gold": 19400, "Platinum": 20200, "Titanium": 21300 }
+    },
+    {
+      "age_min": 30,
+      "age_max": 39,
+      "premiums": { "Bronze": 7500,  "Silver": 12300, "Gold": 20600, "Platinum": 21700, "Titanium": 22700 }
+    },
+    {
+      "age_min": 40,
+      "age_max": 49,
+      "premiums": { "Bronze": 8300,  "Silver": 14400, "Gold": 24400, "Platinum": 25600, "Titanium": 26900 }
+    },
+    {
+      "age_min": 50,
+      "age_max": 54,
+      "premiums": { "Bronze": 9400,  "Silver": 15200, "Gold": 26000, "Platinum": 27300, "Titanium": 28500 }
+    },
+    {
+      "age_min": 55,
+      "age_max": 59,
+      "premiums": { "Bronze": 11000, "Silver": 20000, "Gold": 30000, "Platinum": 31300, "Titanium": 32900 }
+    },
+    {
+      "age_min": 60,
+      "age_max": 64,
+      "premiums": { "Bronze": 12900, "Silver": 23100, "Gold": 39400, "Platinum": 41000, "Titanium": 43100 }
+    },
+    {
+      "age_min": 65,
+      "age_max": 69,
+      "premiums": { "Bronze": 14200, "Silver": 25400, "Gold": 43300, "Platinum": 45200, "Titanium": 47500 }
+    },
+    {
+      "age_min": 70,
+      "age_max": 80,
+      "premiums": { "Bronze": 15600, "Silver": 27900, "Gold": 47700, "Platinum": 49800, "Titanium": 52300 }
+    }
+  ]
+}
